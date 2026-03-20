@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Spring and Robotics<br>🔭 I’m currently working as a Software and Robotics Rsearcher@ LARA/UnB</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Spring and Robotics<br>🔭 I’m currently working as a Software Engineering Intern @ Vetta </p>
 
 ###
 
